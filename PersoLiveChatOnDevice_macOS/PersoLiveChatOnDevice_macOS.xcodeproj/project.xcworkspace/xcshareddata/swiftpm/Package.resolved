@@ -1,0 +1,15 @@
+{
+  "originHash" : "8f8d4afe5ee495f7c91c55d58eb79a8400bc473e52077ef9b01d57cd8a101744",
+  "pins" : [
+    {
+      "identity" : "perso-livechat-ondevice-sdk-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/est-perso-live/perso-livechat-ondevice-sdk-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "565dfd17c295ffa67fb4f30eb3ab86faf2c0e417"
+      }
+    }
+  ],
+  "version" : 3
+}
