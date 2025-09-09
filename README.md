@@ -24,4 +24,4 @@ To use this sample app, you need a valid API key with access permission or a pre
 ## License
 Copyright © 2025 ESTsoft.
 
-PERSO.ai LiveChat SDK for Swift is commercial software. [Contact our sales team](https://perso.ai/contact).
+Perso.ai LiveChat SDK for Swift is commercial software. [Contact our sales team](https://perso.ai/contact).
